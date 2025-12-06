@@ -1,6 +1,6 @@
-baseURL = "https://dev.barcelona-declaration.org"
+baseURL = "https://working-groups.barcelona-declaration.org"
 languageCode = "en-us"
-title = "Barcelona Declaration on Open Research Information"
+title = "Barcelona Declaration Working Groups"
 contentdir = "content"
 theme = "beautifulhugo"
 enableRobotsTXT = true
