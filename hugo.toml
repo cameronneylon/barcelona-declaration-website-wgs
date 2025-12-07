@@ -16,7 +16,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "https://barcelona-declaration.org"
     weight = 1
 
 [[menu.main]]
