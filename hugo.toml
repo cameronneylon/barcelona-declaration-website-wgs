@@ -37,7 +37,3 @@ enableRobotsTXT = true
     parent = "roadmap"
     weight = 2 
     
-[[menu.main]]
-    name = "About"
-    url = "about/"
-    weight = 7
