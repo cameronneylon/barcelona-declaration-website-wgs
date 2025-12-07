@@ -23,17 +23,11 @@ enableRobotsTXT = true
     identifier = "roadmap"  
     name = "Working groups"
     url = "roadmap_parent/"
-    weight = 4 
-
-[[menu.main]]
-    name = "Road map"
-    url = "roadmap/"
-    parent = "roadmap"
-    weight = 1  
+    weight = 2
 
 [[menu.main]]
     name = "Working groups"
     url = "working_groups/"
     parent = "roadmap"
-    weight = 2 
+    weight = 1
     
