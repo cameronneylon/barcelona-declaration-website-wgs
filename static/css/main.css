@@ -581,7 +581,7 @@ footer div.disclaimer {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #AAA;
 }
 @media (prefers-color-scheme: dark) {
   .post-preview a {
@@ -717,7 +717,7 @@ footer div.disclaimer {
   margin: 51px 0 20px;
   padding: 5% 0;
   position: relative;
-  background-color: #fbfafa;
+  background-color: #574e73;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -765,7 +765,7 @@ footer div.disclaimer {
 .intro-header .categories-heading h1 {
   margin-top: 0;
   font-size: 66px;  /*65*/
-  background: -webkit-linear-gradient(#AAA6BF, #756e91, #494066, #494066);
+  background: -webkit-linear-gradient(#aaa6bf, #bdbacf, #ffffff, #ffffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
@@ -954,7 +954,7 @@ footer div.disclaimer {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #9792c1;
+  background: #444;;
   border: 1px solid #9792c1;
 }
 
@@ -989,15 +989,14 @@ table {
   padding: 0;
 }
 table tr {
-  border-top: 1px solid #ffffff;
-  background-color: #ffffff;
+  border-top: 1px solid #181818;
+  background-color: #181818;
   margin: 0;
   padding: 0;
 }
-@media (prefers-color-scheme: dark) {
-}
+
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #303030;
 }
 @media (prefers-color-scheme: dark) {
 table tr {
