@@ -15,7 +15,7 @@ enableRobotsTXT = true
     linkedin = "barcelona-declaration/"
 
 [[menu.main]]
-    name = "Barcelone Declaration - Home"
+    name = "Home - Barcelona Declaration"
     url = "https://barcelona-declaration.org"
     weight = 1
 
