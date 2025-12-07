@@ -1,0 +1,150 @@
+baseURL = "https://barcelona-declaration.org"
+languageCode = "en-us"
+title = "Barcelona Declaration on Open Research Information"
+contentdir = "content"
+theme = "beautifulhugo"
+enableRobotsTXT = true
+
+[params]
+  selfHosted = true
+  favicon = "/favicon.jpg"
+
+[params.author]
+    mastodon = "mastodon.social/@BarcelonaDORI"
+    bluesky = "barcelonadori.bsky.social"
+    linkedin = "barcelona-declaration/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "declaration"   
+    name = "The Declaration"
+    url = "declaration/"
+    weight = 2    
+
+[[menu.main]]
+    name = "Preamble"
+    url = "preamble/"
+    parent = "declaration"
+    weight = 1
+
+[[menu.main]]
+    name = "Commitments"
+    url = "commitments/"
+    parent = "declaration"
+    weight = 2
+
+[[menu.main]]
+    name = "Background and Context"
+    url = "background_and_context/"
+    parent = "declaration"
+    weight = 3
+
+[[menu.main]]
+    name = "Definitions"
+    url = "definitions/"
+    parent = "declaration"
+    weight = 4
+    
+[[menu.main]]
+    name = "Infographic"
+    url = "infographic/"
+    parent = "declaration"
+    weight = 5
+    
+[[menu.main]]
+    name = "Translations"
+    url = "translations/"
+    parent = "declaration"
+    weight = 5
+
+[[menu.main]]
+    identifier = "community"
+    name = "Signatories"
+    url = "signatories_parent/"
+    weight = 3
+
+[[menu.main]]
+    name = "Signatories and supporters"
+    url = "signatories/"
+    parent = "community"
+    weight = 1
+    
+[[menu.main]]
+    name = "Signatories by country"
+    url = "signatories_by_country/"
+    parent = "community"
+    weight = 2
+    
+[[menu.main]]
+    name = "National networks"
+    url = "national_networks/"
+    parent = "community"
+    weight = 3
+
+[[menu.main]]
+    identifier = "roadmap"  
+    name = "Working groups"
+    url = "roadmap_parent/"
+    weight = 4 
+
+[[menu.main]]
+    name = "Road map"
+    url = "roadmap/"
+    parent = "roadmap"
+    weight = 1  
+
+[[menu.main]]
+    name = "Working groups"
+    url = "working_groups/"
+    parent = "roadmap"
+    weight = 2 
+    
+[[menu.main]]
+    identifier = "conference"  
+    name = "Conferences"
+    url = "conference_parent/"
+    weight = 5 
+    
+[[menu.main]]
+    name = "Paris Conference (Sept 2024)"
+    url = "conference_2024_paris/"
+    parent = "conference"
+    weight = 2
+    
+[[menu.main]]
+    name = "Bologna - WOOC 2025 (May 2025)"
+    url = "conference_2025_bologna/"
+    parent = "conference"
+    weight = 1 
+
+[[menu.main]]
+    name = "News"
+    url = "news/"
+    weight = 6
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 7
+
+[[menu.main]]
+    identifier = "resources"  
+    name = "Resources"
+    url = "resources/"
+    weight = 8
+
+[[menu.main]]
+    name = "Images"
+    url = "resources/"
+    parent = "resources"
+    weight = 1
+
+[[menu.main]]
+    name = "Media coverage"
+    url = "media/"
+    parent = "resources"
+    weight = 2
