@@ -5,9 +5,18 @@ comments = false
 
 +++
 
-Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org").  
+Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org").
 
-The {{< download "/downloads/barcelonadeclaration_signatories_supporters.csv" "list of signatories and supporters (with ROR IDs)" >}} is also available in csv-format.
+{{< rawhtml >}}
+<hr class="small">
+</br>
+{{< /rawhtml >}}
+
+To give a clearer picture of where the Declaration is having an impact, we offer different views of the community of signatories, supporters, and national networks:
+
+- [List of signatories by country](/signatories_by_country) 
+- {{< download "/downloads/barcelonadeclaration_signatories_supporters.csv" "List of signatories and supporters (with ROR IDs)" >}} in csv-format
+- Overview of [national networks](/national_networks)
 
 {{< rawhtml >}}
 </br>
@@ -25,6 +34,7 @@ Organizations performing, funding or evaluating research
 **Universities and other research performing organizations**
 * Aix-Marseille Université (France)
 * Athena Research Center (Greece)
+* Birkbeck, University of London (United Kingdom)
 * CaixaResearch Institute (Spain)
 * California Digital Library - CDL (United States of America)
 * Centre de Recerca Ecològica i Aplicacions Forestals - CREAF (Spain)
@@ -40,6 +50,7 @@ Organizations performing, funding or evaluating research
 * Information Society Development Institute - IDSI (Republic of Moldova)
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
+* Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU (Spain)
 * Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
@@ -48,6 +59,7 @@ Organizations performing, funding or evaluating research
 * Loughborough University (United Kingdom)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Museu de Ciències Naturals de Barcelona (Spain)
+* Nantes Université (France) 
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
 * Scholarly Communications Lab (Canada)
@@ -58,7 +70,7 @@ Organizations performing, funding or evaluating research
 * Stockholm University (Sweden)
 * The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen (Netherlands)
 * Udice - French Research Universities (France)
-* UiT - The Artic University of Norway (Norway)
+* UiT - The Arctic University of Norway (Norway)
 * UniLaSalle (France)
 * Universidad Autónoma Metropolitana (Mexico)
 * Universidad de Antioquia (Colombia)
@@ -88,6 +100,7 @@ Organizations performing, funding or evaluating research
 * Université Paris Saclay (France)
 * Université Toulouse 3 Paul Sabatier (France)
 * Universities of the Netherlands - UNL (Netherlands)
+* University of Amsterdam (Netherlands)
 * University of Bristol (United Kingdom)
 * University of Coimbra (Portugal)
 * University of Göttingen (Germany)
@@ -100,6 +113,7 @@ Organizations performing, funding or evaluating research
 * University of the Azores (Portugal)
 * University of the Balearic Islands (Spain)
 * University of Turku (Finland)
+* University of Zurich (Switzerland)
 * University "St. Kliment Ohridski" (North Macedonia)
 * Utrecht University (Netherlands)
 * Vrije Universiteit Amsterdam (Netherlands)
@@ -111,6 +125,7 @@ Organizations performing, funding or evaluating research
 
 {{< /rawhtml >}}
 **Research funding organizations and governments**
+* ANRS MIE (France)
 * Austrian Science Fund - FWF (Austria)
 * Bill & Melinda Gates Foundation (United States of America)
 * Catalan Foundation for Research and Innovation - FCRI (Spain)
@@ -133,7 +148,9 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
+* Data Observatory Foundation (Chile)
 * Deutsche Initiative für Netzwerkinformation e. V. - DINI (Germany)
+* Digital Competence Center for Practice-Oriented Research - DCC-PO (Netherlands)
 * Dutch Reproducibility Network - NLRN (Netherlands)
 * EOSC Association (international)
 * Federation of Finnish Learned Societies  - TSV (Finland)
@@ -141,11 +158,12 @@ Organizations performing, funding or evaluating research
 * Fundación Openlab Ecuador (Ecuador)  
 * GO FAIR Brazil Health (Brazil)
 * Good Clinical Practice Alliance - GCPA (international)
-* Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
+* Hellenic Academic Libraries Link (Greece)
 * KB, National library of the Netherlands (Netherlands)
 * Latin American Council of Social Sciences - CLACSO (international)
 * Leibniz Institute for Psychology - ZPID (Germany)
 * LIBER (international)
+* Netherlands eScience Center (Netherlands)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
 * Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)
@@ -181,6 +199,7 @@ Organizations providing data, services and infrastructure
 * Directory of Open Access Journals - DOAJ
 * Dryad
 * Europe PMC
+* Edizioni Ca' Foscari - Venice University Press
 * eLife
 * Érudit
 * euroCRIS
@@ -202,6 +221,7 @@ Organizations providing data, services and infrastructure
 * Open Research Knowledge Graph - ORKG
 * OPERAS
 * ORCID
+* OSIRIS Solutions
 * OurResearch
 * Peer Community In - PCI
 * PLOS (Public Library of Science)

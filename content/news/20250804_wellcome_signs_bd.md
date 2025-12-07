@@ -3,7 +3,7 @@ title = "Wellcome becomes first UK funder to sign the Barcelona Declaration"
 date = 2025-08-04 
 summary = 'On 30 June 2025, Wellcome became the first UK-based research funder to sign the Barcelona Declaration on Open Research Information' 
 comments = false 
-aliases = ["/20250804_wellcome_signs_bd"]
+aliases = ["/20250729_wellcome_signs_bd"]
 +++
 
 August 04, 2025
@@ -15,11 +15,32 @@ August 04, 2025
 
 On **30 June 2025**, Wellcome became the **first UK-based research funder** to sign the Barcelona Declaration on Open Research Information. This signature marks a meaningful step in the journey toward making research information openly available, transparent, and governed by the scholarly community. It signals that the shift toward open research information is not only necessary, but possible, especially when key actors lead with clarity and purpose.
 
+{{< rawhtml >}}
+</br>
+<table border="0">
+    <tr>
+        <td style="width:15%" border="0">
+        </td>
+        <td style="width:70%" border="0">
+            <a href="/images/wellcome_bd_news.png" target="_blank">
+            <picture>
+            <img src = "/images/wellcome_bd_news.png" alt = "Graphic announcing that Wellcome has signed the Barcelona Declaration. Highlights include: openness as default, aligning policy with practice, and collaboration in Working Group 3. Includes logos of Wellcome and the Barcelona Declaration, with a link to read more.">
+            </picture>
+             </a>
+        </td>
+        <td style="width:15%" border="0">
+        </td>
+    </tr>
+</table>
+</br>
+{{< /rawhtml >}}
+
 In its [announcement](https://wellcome.org/news/wellcome-announces-suite-open-research-measures), Wellcome outlines several measures to increase openness in research reporting. One significant change is that, instead of reporting publications into a closed system, **researchers will help ensure that their outputs are visible in open, publicly accessible databases** (such as Europe PMC); supporting not only the use but also the production of open research information. This shift aligns closely with the Declaration’s commitment to making openness the default for the research information signatories use and produce.
 
 Wellcome’s signature adds momentum to an international community of signatories and supporters, including research institutions, libraries, infrastructure providers, and funders, that are working together to implement the Barcelona Declaration. The involvement of funders is particularly important since they help reshape how research is recognized and rewarded, aligning policy with practice.
 
 {{< rawhtml >}}
+</br>
 <hr class="small">
 </br>
 {{< /rawhtml >}}
@@ -37,3 +58,5 @@ Across the Barcelona Declaration community, the importance of funder engagement 
 Wellcome’s example shows that this kind of alignment is already underway, and that funders can help lead the way.
 
 We warmly welcome Wellcome to the Barcelona Declaration community and hope this signature encourages other funding organizations to join our roadmap.
+
+
