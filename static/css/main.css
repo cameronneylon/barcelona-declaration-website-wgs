@@ -238,8 +238,10 @@ figure:not(.dark) img, img.white {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #fecf65;
-  border-bottom: 1px solid #EAEAEA;
+   *background: #494066;
+    border-bottom: 1px solid #494066;
+  /*background: #fecf65;
+  border-bottom: 1px solid #EAEAEA;*/
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
