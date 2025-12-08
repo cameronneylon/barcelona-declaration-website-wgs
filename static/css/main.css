@@ -500,7 +500,7 @@ footer {
 }
 
 footer a {
-  color: white; /*#404040*/
+  color: #e3e3e3;; /*#404040*/
   }
 
 footer .list-inline {
@@ -511,10 +511,12 @@ footer .copyright {
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
+  color: white; /*new*/
 }
 footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
+  color: white; /*new*/
 }
 
 footer div.disclaimer {
