@@ -714,7 +714,7 @@ footer div.disclaimer {
   margin: 51px 0 20px;
   padding: 5% 0;
   position: relative;
-  background-color: #fbfafa;
+  background-color: #494166; /*#fbfafa*/
 }
 
 @media (prefers-color-scheme: dark) {
@@ -762,7 +762,8 @@ footer div.disclaimer {
 .intro-header .categories-heading h1 {
   margin-top: 0;
   font-size: 66px;  /*65*/
-  background: -webkit-linear-gradient(#AAA6BF, #756e91, #494066, #494066);
+  background: -webkit-linear-gradient(#aaa6bf, #bdbacf, #ffffff, #ffffff);
+  /*background: -webkit-linear-gradient(#AAA6BF, #756e91, #494066, #494066);*/
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
