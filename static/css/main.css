@@ -490,6 +490,7 @@ footer {
   border-top: 1px #494166 solid; /*#EAEAEA*/
   margin-top: auto;
   font-size: 14px;
+  color: white; /*new*/
 }
 
 @media (prefers-color-scheme: dark) {
