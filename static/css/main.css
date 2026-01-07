@@ -501,7 +501,7 @@ footer {
 }
 
 footer a {
-  color: #e3e3e3;; /*#404040*/
+  color: darkgrey;; /*#e3e3e3, original #404040*/
   }
 
 footer .list-inline {
