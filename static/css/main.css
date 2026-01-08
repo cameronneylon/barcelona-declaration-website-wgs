@@ -394,13 +394,15 @@ figure:not(.dark) img, img.white {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: darkgrey;
+  color: #3c3c3b;  /*new*/
+  background: lightgrey;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
+    color: #3c3c3b;  /*new*/
     background: darkgrey;
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
