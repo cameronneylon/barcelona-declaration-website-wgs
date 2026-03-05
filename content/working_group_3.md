@@ -7,11 +7,32 @@ comments = false
 
 # Working group 3
 
-### Funding metadata
+## Funding metadata
 *Coordinators: Hans de Jonge (Dutch Research Council - NWO), Katharina Rieck (Austrian Science Fund - FWF), Zoé Ancion (Agence Nationale de la Recherche - ANR)*
 
 The focus of this working group is on improving the availability of funding metadata. The group will organize a workshop with vendors, publishers and funders to discuss how submission and production systems can better support the registration of grant metadata and will produce a set of resources to show how funders are making grant metadata available for advocacy and for improving the use of standards.
 
 {{< rawhtml >}}
 <hr class="small">
+{{< /rawhtml >}}
+
+## Task forces
+
+{{< rawhtml >}}
+<hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+### Activities
+
+{{< rawhtml >}}
+<hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+### Outcomes
+
+{{< rawhtml >}}
+<hr class="small">
+</br></br>
 {{< /rawhtml >}}
