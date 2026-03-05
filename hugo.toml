@@ -27,7 +27,7 @@ enableRobotsTXT = true
     weight = 2
 
 [[menu.main]]
-    name = "WG1"
+    name = "Working group 1"
     url = "working_group_1/"
     parent = "working_groups"
     weight = 1
@@ -39,31 +39,31 @@ enableRobotsTXT = true
     weight = 2
     
 [[menu.main]]
-    name = "WG3"
+    name = "Working group 3"
     url = "working_group_3/"
     parent = "working_groups"
     weight = 3
     
 [[menu.main]]
-    name = "WG4"
+    name = "Working group 4"
     url = "working_group_4/"
     parent = "working_groups"
     weight = 4
     
 [[menu.main]]
-    name = "WG5"
-    url = "working_group_5/"
+    name = "Working group 5"
+    url = "working_group_5"
     parent = "working_groups"
     weight = 5
     
 [[menu.main]]
-    name = "WG6"
+    name = "Working group 6"
     url = "working_group_6/"
     parent = "working_groups"
     weight = 6
     
 [[menu.main]]
-    name = "WG7"
+    name = "Working group 7"
     url = "working_group_7/"
     parent = "working_groups"
     weight = 1
