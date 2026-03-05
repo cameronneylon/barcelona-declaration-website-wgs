@@ -29,42 +29,42 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "WG1"
     url = "working_group_1/"
-    parent = ""working_groups"
+    parent = "working_groups"
     weight = 1
     
 [[menu.main]]
     name = "Working group 2"
     url = "working_group_2/"
-    parent = ""working_groups"
+    parent = "working_groups"
     weight = 2
     
 [[menu.main]]
     name = "WG3"
     url = "working_group_3/"
-    parent = ""working_groups"
+    parent = "working_groups"
     weight = 3
     
 [[menu.main]]
     name = "WG4"
     url = "working_group_4/"
-    parent = ""working_groups"
+    parent = "working_groups"
     weight = 4
     
 [[menu.main]]
     name = "WG5"
     url = "working_group_5/"
-    parent = ""working_groups"
+    parent = "working_groups"
     weight = 5
     
 [[menu.main]]
     name = "WG6"
     url = "working_group_6/"
-    parent = ""working_groups"
+    parent = "working_groups"
     weight = 6
     
 [[menu.main]]
     name = "WG7"
     url = "working_group_7/"
-    parent = ""working_groups"
+    parent = "working_groups"
     weight = 1
     
