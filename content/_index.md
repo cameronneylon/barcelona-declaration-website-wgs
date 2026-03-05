@@ -35,7 +35,7 @@ Below our curreent working groups are listed. All working groups are developing 
 </br>
 {{< /rawhtml >}}
 
-# Commitments
+# Working groups
 {{< rawhtml >}}
 <hr class="small">
 </br></br>
@@ -44,9 +44,7 @@ Below our curreent working groups are listed. All working groups are developing 
 
 {{< icon_open >}}
 
-## 1
-
-### Journal article metadata and book metadata
+## WG 1 - Journal article metadata and book metadata
 
 {{< rawhtml >}}
 <hr class="small">
@@ -114,15 +112,12 @@ Below our curreent working groups are listed. All working groups are developing 
 
 ### Evidence of benefits
 
-{{< rawhtml >}}
-<hr class="small">
-</br></br>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <hr class="small">
 </br></br>
 {{< /rawhtml >}}
+
 Organizations interested in signing the Declaration and joining one or more working groups are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org"). 
 
 {{< rawhtml >}}
