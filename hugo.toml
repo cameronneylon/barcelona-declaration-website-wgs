@@ -66,5 +66,5 @@ enableRobotsTXT = true
     name = "Working group 7"
     url = "working_group_7/"
     parent = "working_groups"
-    weight = 1
+    weight = 7
     
