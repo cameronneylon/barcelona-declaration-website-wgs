@@ -120,7 +120,7 @@ Below our curreent working groups are listed. All working groups are developing 
 </br></br>
 {{< /rawhtml >}}
 
-Organizations interested in signing the Declaration and joining one or more working groups are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org"). 
+Organizations interested in signing the Declaration and joining one of our working groups are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org"). 
 
 {{< rawhtml >}}
 </br></br>
