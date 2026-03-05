@@ -44,7 +44,9 @@ Below our curreent working groups are listed. All working groups are developing 
 
 {{< icon_open >}}
 
-## WG 1 - Journal article metadata and book metadata
+## 1
+
+### Journal article metadata and book metadata
 
 {{< rawhtml >}}
 <hr class="small">
