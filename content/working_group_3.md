@@ -19,7 +19,6 @@ The focus of this working group is on improving the availability of funding meta
 ## Task forces
 
 {{< rawhtml >}}
-<hr class="small">
 </br></br>
 {{< /rawhtml >}}
 
