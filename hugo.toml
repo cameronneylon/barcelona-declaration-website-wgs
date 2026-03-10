@@ -21,10 +21,16 @@ enableRobotsTXT = true
     weight = 1
 
 [[menu.main]]
-    identifier = "working_groups"  
+    identifier = "working_groups_overview"  
     name = "Working groups"
     url = "/"
     weight = 2
+    
+[[menu.main]]
+    identifier = "working_groups"  
+    name = "Working groups"
+    url = "/"
+    weight = 3
 
 [[menu.main]]
     name = "Working group 1"
