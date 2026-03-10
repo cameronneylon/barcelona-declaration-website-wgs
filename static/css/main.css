@@ -759,14 +759,8 @@ footer div.disclaimer {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
-.intro-header .page-heading h1 {
-  margin-top: 0;
-  font-size: 66px;  /*65*/
-  background: -webkit-linear-gradient(#aaa6bf, #bdbacf, #ffffff, #ffffff);
-  /*background: -webkit-linear-gradient(#AAA6BF, #756e91, #494066, #494066);*/
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-},
+.intro-header .page-heading h1,
+.intro-header .post-heading h1,
 .intro-header .tags-heading h1,
 .intro-header .categories-heading h1 {
   margin-top: 0;
