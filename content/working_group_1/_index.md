@@ -1,5 +1,5 @@
 +++
-title = 'Working group 1'
+title = 'Barcelona Declaration - Working Groups'
 date = 2024-06-03T10:51:15+08:00
 comments = false
 
