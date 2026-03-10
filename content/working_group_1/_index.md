@@ -6,6 +6,10 @@ comments = false
 +++
 
 # Journal article metadata and book metadata
+{{< rawhtml >}}
+<hr class="small">
+</br>
+{{< /rawhtml >}}
 
 *Coordinators: Ludo Waltman (Leiden University), Judith Naidorf, Mariangela Napoli (Consejo Latinoamericano de Ciencias Sociales - CLACSO)*
 
