@@ -34,7 +34,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Working group 1"
-    url = "working_group_1/"
+    url = "working_group_1/working_group_1_index"
     parent = "working_groups"
     weight = 1
     
