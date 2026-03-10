@@ -22,7 +22,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     identifier = "working_groups_overview"  
-    name = "Working groups"
+    name = "About - Working groups"
     url = "/"
     weight = 2
     
