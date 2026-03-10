@@ -1,5 +1,5 @@
 +++
-title = 'Working group 1'
+title = 'Working groups'
 date = 2024-01-14T10:51:15+08:00
 comments = false
 +++
