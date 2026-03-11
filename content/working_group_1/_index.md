@@ -50,7 +50,7 @@ The group’s work is organized into three task forces.
 *Task force leader: Dominique Mitchell (DOAJ)*
 
 - List recommended and desired metadata elements
-  - Identify obstacles for publishers in creating and supplying metadata
+- Identify obstacles for publishers in creating and supplying metadata
 
 {{< rawhtml >}}
 </br>
