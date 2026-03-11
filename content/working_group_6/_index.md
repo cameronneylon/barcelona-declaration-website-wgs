@@ -1,37 +1,43 @@
 +++
-title = 'Working group 6'
+title = 'Working Group 6'
 date = 2024-06-03T10:51:15+08:00
 comments = false
-
 +++
 
-#  Evaluating open research information sources
-
-## Coordinator
-*Stefano Bolelli Gallevi (Università degli Studi di Milano)*
-
-This working group focuses on the quality and completeness of open research information sources, e.g. by developing and implementing monitoring frameworks and considering requirements and standards for the quality and completeness of (meta)data. Planned actions include identifying open research information sources, developing a set of criteria and supporting projects for their adoption and evaluation, and implementing evaluation tools and methods in a monitoring framework.
+## Evaluating open research information sources
+*Coordinator: Stefano Bolelli Gallevi (Università degli Studi di Milano)*
+*
 
 {{< rawhtml >}}
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
-## Task forces
+This working group focuses on the evaluation of open research information sources to support their adoption and use by institutions. Its goal is to enable signatories to make informed decisions about which open research information sources to adopt and support.
+
+To support this goal, the group explores how open research information sources can be assessed in terms of openness, coverage, completeness, quality, governance, and sustainability, and how shared approaches to evaluation can support more transparent and consistent decision-making across institutions.
 
 {{< rawhtml >}}
-</br></br>
+</br>
 {{< /rawhtml >}}
 
 ## Activities
 
 {{< rawhtml >}}
 <hr class="small">
-</br></br>
+{{< /rawhtml >}}
+
+- Define a set of criteria for the adoption of open research information sources
+- Develop a set of reporting guidelines for evaluation of open research information sources
+- Discover projects for developing evaluation tools and methods to support and implement them in a monitoring framework
+
+{{< rawhtml >}}
+</br>
 {{< /rawhtml >}}
 
 ## Outcomes
 
 {{< rawhtml >}}
 <hr class="small">
-</br></br>
+</br>
 {{< /rawhtml >}}
