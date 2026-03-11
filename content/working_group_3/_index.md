@@ -18,6 +18,8 @@ To support this goal, the group addresses questions such as how funding informat
 
 The group’s work is organized into four task forces.
 
+For more information on open funding metadata and the benefits it provides, see [here](/open_funding_information_benefits).
+
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
