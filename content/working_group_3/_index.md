@@ -29,7 +29,7 @@ The group’s work is organized into four task forces.
 {{< /rawhtml >}}
 
 ### Funding information in publication metadata
-*Task force leaders: Hans de Jonge (Dutch Research Council - NWO)*
+*Task force leads: Hans de Jonge (Dutch Research Council - NWO)*
 
 - Develop an action plan and a call for action to improve how publishing systems support the registration of funding metadata, informed by a workshop with publishers and system providers.
 
@@ -38,7 +38,7 @@ The group’s work is organized into four task forces.
 {{< /rawhtml >}}
 
 ### Grant Metadata Sharing by Funders
-*Task force leaders: Katharina Rieck (Austrian Science Fund - FWF)*
+*Task force leads: Katharina Rieck (Austrian Science Fund - FWF)*
 
 - Create practical resources on grant metadata sharing by funders.
 
@@ -52,7 +52,7 @@ The group’s work is organized into four task forces.
 - Expand the adoption and improvement of funding metadata practices across a more representative and geographically diverse group of funders.
 
 ### Entity-relationship model
-*Task force leaders: Adam Buttrick (California Digital Library)*
+*Task force leads: Adam Buttrick (California Digital Library)*
 
 - Develop an entity relationship model for funding metadata.
 

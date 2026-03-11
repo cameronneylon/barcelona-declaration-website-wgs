@@ -29,7 +29,7 @@ The group’s work is organized into two task forces.
 {{< /rawhtml >}}
 
 ### Metadata curation in institutional repositories
-*Task force leaders: Bárbara Rivera López, Bianca Kramer (Barcelona Declaration), Jerneja Grasic (University of Maribor)*
+*Task force leads: Bárbara Rivera López, Bianca Kramer (Barcelona Declaration), Jerneja Grasic (University of Maribor)*
 
 - Propose guidelines for metadata validation and moderation in institutional repositories, including the prioritization of metadata elements most relevant to research organizations.
 - Increase awareness of the value of repositories and the need for internal resources to sustain them.
@@ -39,7 +39,7 @@ The group’s work is organized into two task forces.
 {{< /rawhtml >}}
 
 ### Machine-learning pipelines to detect data and software mentions from full text
-*Task force leaders: Bianca Kramer (Barcelona Declaration)*
+*Task force leads: Bianca Kramer (Barcelona Declaration)*
 
 - Bring together existing organizations/initiatives, focus on the availability and usage of these links as open research information.
 
