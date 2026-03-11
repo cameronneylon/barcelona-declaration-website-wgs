@@ -18,12 +18,14 @@ To support this transition, the group addresses questions such as what essential
 
 The group’s work is organized into three task forces.
 
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 
 ## Task forces
 
 {{< rawhtml >}}
 <hr class="small">
-</br>
 {{< /rawhtml >}}
 
 ### Metadata framework
@@ -31,18 +33,28 @@ The group’s work is organized into three task forces.
 
 - Identify key metadata elements for various research outputs, linked to use cases of working groups / working group members
 
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
 ### Negotiating openness of publication metadata (Joint Taskforce with OA2020) 
 *Task force leaders: Ludo Waltman (CWTS, Leiden University); Miranda Bennett (California Digital Library / OA2020)*
 
 - Enable research organizations to negotiate the openness of publication metadata with publishers by developing shared frameworks, clauses, and practical tools.
 
-## Supporting poorly-resourced publishers
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+### Supporting poorly-resourced publishers
 *Task force leader: Dominique Mitchell (DOAJ)*
 
 - List recommended and desired metadata elements
 - Identify obstacles for publishers in creating and supplying metadata
 
-
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 
 ## Outcomes
 
