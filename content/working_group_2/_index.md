@@ -1,37 +1,55 @@
 +++
-title = 'Working group 2'
+title = 'Working Group 2'
 date = 2024-06-03T10:51:15+08:00
 comments = false
-
 +++
 
-# Metdata of research outputs in repositories
-
-## Coordinators 
-*Bianca Kramer, Bárbara Rivera López (Barcelona Declaration)* 
-
-This topic represents an interest in the general program of expanding the set of research output types for which high quality metadata is available and ensuring that this growth contributes to the expansion of open research information systems. Actions in this working group include proposing guidelines for metadata validation/moderation in IRs, including prioritization of metadata elements most relevant for research organizations, and organizing a meeting / hackathon to bring together existing initiatives around machine-learning pipelines to detect datasets and software from full-text.
+## Metadata of research outputs in repositories
+*Coordinators: Bianca Kramer, Bárbara Rivera López (Barcelona Declaration)*
 
 {{< rawhtml >}}
 <hr class="small">
+</br>
+{{< /rawhtml >}}
+
+This working group focuses on improving the availability and quality of metadata for research outputs in institutional repositories, preprint repositories, and data repositories. Its goal is to expand the range of research outputs for which high-quality metadata are available, and ensuring that this growth contributes to the expansion of open research information systems.
+
+To support this goal, the group addresses questions such as how institutional repositories can improve metadata curation practices, which metadata elements are most valuable for research organizations, and how emerging tools can help identify and link research outputs such as datasets and software from the scholarly literature.
+
+The group’s work is organized into two task forces.
+
+{{< rawhtml >}}
+</br>
 {{< /rawhtml >}}
 
 ## Task forces
 
 {{< rawhtml >}}
-</br></br>
+<hr class="small">
 {{< /rawhtml >}}
 
-## Activities
+### Metadata curation in institutional repositories
+*Task force leaders: Bárbara Rivera López, Bianca Kramer (Barcelona Declaration), Jerneja Grasic (University of Maribor)*
+
+- Propose guidelines for metadata validation and moderation in institutional repositories, including the prioritization of metadata elements most relevant to research organizations.
+- Increase awareness of the value of repositories and the need for internal resources to sustain them.
 
 {{< rawhtml >}}
-<hr class="small">
-</br></br>
+</br>
+{{< /rawhtml >}}
+
+### Machine-learning pipelines to detect data and software mentions from full text
+*Task force leaders: Bianca Kramer (Barcelona Declaration)*
+
+- Bring together existing organizations/initiatives, focus on the availability and usage of these links as open research information.
+
+{{< rawhtml >}}
+</br>
 {{< /rawhtml >}}
 
 ## Outcomes
 
 {{< rawhtml >}}
 <hr class="small">
-</br></br>
+</br>
 {{< /rawhtml >}}
