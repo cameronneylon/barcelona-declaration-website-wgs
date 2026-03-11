@@ -4,7 +4,7 @@ date = 2024-06-03T10:51:15+08:00
 comments = false
 +++
 
-## Open funding etadata
+## Open funding Metadata
 *add byline*
 
 {{< rawhtml >}}
