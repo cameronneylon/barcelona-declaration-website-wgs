@@ -2,6 +2,8 @@
 title = 'Barcelona Declaration - Working Groups'
 date = 2024-06-03T10:51:15+08:00
 comments = false
+layout = 'working_group'
+type = 'single'
 
 +++
 
