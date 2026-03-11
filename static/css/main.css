@@ -717,6 +717,7 @@ footer div.disclaimer {
   padding: 5% 0;
   position: relative;
   background-color: yellow; /*#494166;*/ /*#fbfafa*/
+  color: white;
 }
 
 @media (prefers-color-scheme: dark) {
