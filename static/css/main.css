@@ -779,12 +779,15 @@ footer div.disclaimer {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }  
-}  
-  
+} 
+
+/*  
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
 }
+*/
+
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
   font-size: 27px;
