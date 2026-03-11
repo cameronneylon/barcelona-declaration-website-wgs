@@ -41,6 +41,7 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_systems >}}
 
 ## 2  Metadata of research outputs in repositories
+*[read more](/working_group_2)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -50,6 +51,7 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_infrastructures >}}
 
 ## 3  Funding metadata
+*[read more](/working_group_3)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -59,6 +61,7 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_open >}}
 
 ## 4  Replacing closed systems
+*[read more](/working_group_4)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -68,6 +71,7 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_infrastructures >}}
 
 ## 5  Sustaining infrastructures
+*[read more](/working_group_5)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -77,6 +81,7 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_systems >}}
 
 ## 6  Evaluating sources of open research information
+*[read more](/working_group_6)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -86,15 +91,13 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_collectiveaction >}}
 
 ## 7  Evidence of benefits
+*[read more](/working_group_7)*
 
 {{< rawhtml >}}
 <hr class="small">
 </br></br>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-</br>
-{{< /rawhtml >}}
 ## Looking forward
 {{< rawhtml >}}
 <hr class="small">
