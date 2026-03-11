@@ -9,7 +9,7 @@ comments = false
 
 {{< rawhtml >}}
 <hr class="small">
-</br></br>
+</br>
 {{< /rawhtml >}}
 
 This working group focuses on advancing the openness of metadata for journal articles and books. Its goal is to ensure that key publication metadata are made openly available and can be widely used to improve transparency, discoverability, and reuse of scholarly outputs.
@@ -25,6 +25,23 @@ The group’s work is organized into three task forces.
 <hr class="small">
 </br>
 {{< /rawhtml >}}
+
+### Metadata framework
+*Task force leaders: Adam Buttrick (California Digital Library), Bianca Kramer, Bárbara Rivera López (Barcelona Declaration)*
+
+- Identify key metadata elements for various research outputs, linked to use cases of working groups / working group members
+
+### Negotiating openness of publication metadata (Joint Taskforce with OA2020) 
+*Task force leaders: Ludo Waltman (CWTS, Leiden University); Miranda Bennett (California Digital Library / OA2020)*
+
+- Enable research organizations to negotiate the openness of publication metadata with publishers by developing shared frameworks, clauses, and practical tools.
+
+## Supporting poorly-resourced publishers
+*Task force leader: Dominique Mitchell (DOAJ)*
+
+- List recommended and desired metadata elements
+- Identify obstacles for publishers in creating and supplying metadata
+
 
 
 ## Outcomes
