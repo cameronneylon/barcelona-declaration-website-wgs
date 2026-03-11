@@ -46,11 +46,11 @@ The group’s work is organized into three task forces.
 </br>
 {{< /rawhtml >}}
 
-### Supporting poorly-resourced publishers
+### - Supporting poorly-resourced publishers
 *Task force leader: Dominique Mitchell (DOAJ)*
 
-- List recommended and desired metadata elements
-- Identify obstacles for publishers in creating and supplying metadata
+-- List recommended and desired metadata elements
+-- Identify obstacles for publishers in creating and supplying metadata
 
 {{< rawhtml >}}
 </br>
