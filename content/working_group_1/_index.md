@@ -9,6 +9,7 @@ comments = false
 
 {{< rawhtml >}}
 <hr class="small">
+</br></br>
 {{< /rawhtml >}}
 
 This working group focuses on advancing the openness of metadata for journal articles and books. Its goal is to ensure that key publication metadata are made openly available and can be widely used to improve transparency, discoverability, and reuse of scholarly outputs.
@@ -18,26 +19,17 @@ To support this transition, the group addresses questions such as what essential
 The group’s work is organized into three task forces.
 
 
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-
 ## Task forces
 
 {{< rawhtml >}}
-</br></br>
-{{< /rawhtml >}}
-
-## Activities
-
-{{< rawhtml >}}
 <hr class="small">
-</br></br>
+</br>
 {{< /rawhtml >}}
+
 
 ## Outcomes
 
 {{< rawhtml >}}
 <hr class="small">
-</br></br>
+</br>
 {{< /rawhtml >}}
