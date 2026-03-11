@@ -12,7 +12,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-## What is open funding metadata in research
+### What is open funding metadata in research
 {{< rawhtml >}}
 <hr class="small">
 </br>
@@ -21,7 +21,7 @@ comments = false
 **Open funding metadata** is [open research information](https://barcelona-declaration.org/definitions/) that refers to structured information on funding and grants. It typically includes the funder’s name or identifier, grant identifiers, and additional information about the grant, such as amount, beneficiaries and funding programme(s).
 
 
-## Why open funding metadata matters
+### Why open funding metadata matters
 {{< rawhtml >}}
 <hr class="small">
 </br>
@@ -38,7 +38,7 @@ Open funding metadata delivers concrete benefits for various stakeholders across
 - **Open Infrastructures** benefit from the availability of open funding metadata to increase their coverage and data quality. They benefit from more efficient workflows and reduced duplication by connecting funders, institutions, and repositories through standardized metadata.
 - **Society at large** benefits from open funding metadata because by providing greater transparency, accountability and more efficient use of resources. Public access to information about how money is spent on research contributes to enhanced trust in science.
 
-## Key benefits of open funding metadata
+### Key benefits of open funding metadata
 {{< rawhtml >}}
 <hr class="small">
 </br>
@@ -59,7 +59,7 @@ Open funding metadata delivers concrete benefits for various stakeholders across
 </div>
 {{< /rawhtml >}}
 
-## Examples 
+### Examples 
 {{< rawhtml >}}
 <hr class="small">
 </br>
