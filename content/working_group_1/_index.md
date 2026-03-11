@@ -4,18 +4,19 @@ date = 2024-06-03T10:51:15+08:00
 comments = false
 +++
 
-# Journal article metadata and book metadata
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-
+## Journal article metadata and book metadata
 *Coordinators: Ludo Waltman (Leiden University), Judith Naidorf, Mariangela Napoli (Consejo Latinoamericano de Ciencias Sociales - CLACSO)*
 
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
 
-This working group aims to ensure that key metadata are made openly available by publishers. As part of this, the working group also aims to develop a framework that describes key metadata elements. Actions of this working group include coordinating the inclusion of comprehensive open metadata in negotiations with publishers (in a [joint task force with OA2020](https://oa2020.org/working-groups/#:~:text=OA2020%20is%20partnering%20with%20the%20Barcelona%20Declaration%20on%20Open%20Research%20Information)) and creating affordable ways for poorly-resourced publishers to make metadata openly available.
+This working group focuses on advancing the openness of metadata for journal articles and books. Its goal is to ensure that key publication metadata are made openly available and can be widely used to improve transparency, discoverability, and reuse of scholarly outputs.
+
+To support this transition, the group addresses questions such as what essential publication metadata should be openly available, how institutions can work collectively to promote openness of publication metadata in their interactions with publishers, and how publishers with limited resources can be supported in making their metadata openly available.
+
+The group’s work is organized into three task forces.
+
 
 {{< rawhtml >}}
 <hr class="small">
