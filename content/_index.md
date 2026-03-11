@@ -30,7 +30,8 @@ Each working group focuses on a specific topic and is coordinated by representat
 
 {{< icon_open >}}
 
-## 1  [Journal article metadata and book metadata](/working_group_1)
+## 1  Journal article metadata and book metadata
+*[read more](/working_group_1)*
 
 {{< rawhtml >}}
 <hr class="small">
