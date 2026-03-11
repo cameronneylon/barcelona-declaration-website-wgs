@@ -11,12 +11,11 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-The Barcelona Declaration working groups were established to promote collective action around the transition to open research information.  In many areas, true progress requires collaboration and collective work to overcome barriers. Such actions also often involve collaboration with organizations providing data, services and infrastructures. 
+The Barcelona Declaration working groups were established to promote collective action around the transition to open research information. The Barcelona Declaration calls upon organizations performing, funding and evaluating research to move towards open research information. In many areas, progress requires collaboration and collective work to overcome barriers. Such actions also often involve collaboration with organizations providing data, services and infrastructures.
 
-At the [Paris Conference on Open Research Information](/conference_2024_paris), signatories and supporters of the Barcelona Declaration came together to discuss areas where such collective action would be beneficial. This resulted in the [Roadmap on Open Research Information](/roadmap), which is included in full in the [conference report](https://doi.org/10.5281/zenodo.14054244). Following the conference, working groups were convened around each of the identified areas of interest. Working groups are coordinated by representatives of signatories of the Declaration. 
+The working groups were established around priority areas identified in the [Roadmap on Open Research Information](https://barcelona-declaration.org/roadmap/), which outlines topics where coordinated efforts can accelerate progress.
 
-Below our curreent working groups are listed. All working groups are developing a set of concrete outcomes and organizing their activities accordingly, in some cases in separate task forces.
-
+Each working group focuses on a specific topic and is coordinated by representatives of signatory organizations. The groups aim to develop concrete outcomes over a 6–24 month timeframe. All working groups are developing a set of concrete actions and organizing their activities accordingly, in some cases through dedicated task forces.
 
 {{< rawhtml >}}
 </br>
@@ -109,8 +108,34 @@ Below our curreent working groups are listed. All working groups are developing 
 *Coordinators: Núria Benítez Monforte (Institució CERCA) and Christian Hauschke (TIB - Leibniz Information Centre for Science and Technology)*
 
 {{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+## Looking forward
+{{< rawhtml >}}
 <hr class="small">
-</br></br>
+{{< /rawhtml >}}
+
+As the working groups embark on the above actions, with the ultimate aim of helping organizations transition to open research information, two factors are important for their success.
+
+### Geographical representation
+Current working group members roughly reflect the demographics of the Barcelona Declaration signatories, with a strong representation from Western and Southern Europe, although we are happy to have active representation from organizations in Latin America, Africa and the Middle East as well. We hope to broaden this representation and invite organizations anywhere in the world to [express their interest](https://tinyurl.com/Barcelona-Declaration-WGs) in participating in the working groups.
+
+Participation in the working groups is not limited to organizations that are signatories of the Barcelona Declaration. If your organization is interested in contributing to the transition to open research information, but has not (yet) signed the Declaration, the working groups would be a good way to get involved! 
+
+
+### Alignment with other initiatives
+Another key factor is checking for alignment with existing initiatives and making use of existing resources and information. Existing initiatives where actions are already planned and/or implemented include, among others, the CoARA working group [Towards Open Infrastructures for Responsible Research Assessment](https://coara.eu/working-groups/working-groups/wg-towards-open-infrastructures-for-responsible-research-assessment-oi4rra/), the [Global Sustainability Coalition for Open Science Services (SCOSS)](https://scoss.org/), [Invest in Open Infrastructure (IOI)](https://investinopen.org/), the [Open Science Monitoring Initiative (OSMI)](https://open-science-monitoring.org/) and [Transparency to Sustain Open Science Infrastructure (TSOSI)](https://tsosi.org). 
+
+In addition, the [Collaborative Metadata Enrichment Taskforce (COMET)](https://www.cometadata.org/) was set up to explore ways for community enrichment of metadata, a topic of considerable interest for many Barcelona Declaration signatories and supporters. 
+
+In many cases, representatives of these initiatives are already participating in Barcelona Declaration working groups and vice versa, making sharing of information easier. We will also actively reach out to various organizations to discuss future alignment and potential for cross-fertilization where efforts around open research information, research assessment and open science intersect.
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+## Get involved!
+{{< rawhtml >}}
+<hr class="small">
 {{< /rawhtml >}}
 
 Organizations interested in signing the Declaration and joining one of our working groups are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org"). 
