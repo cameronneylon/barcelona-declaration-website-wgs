@@ -31,7 +31,6 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_open >}}
 
 ## 1  [Journal article metadata and book metadata](/working_group_1)
-*Coordinators: Ludo Waltman (Leiden University), Judith Naidorf, Mariangela Napoli (Consejo Latinoamericano de Ciencias Sociales - CLACSO)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -41,7 +40,6 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_systems >}}
 
 ## 2  Metadata of research outputs in repositories
-*Coordinators: Bianca Kramer, Bárbar Rivera Lopez (Barcelona Declaration)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -51,7 +49,6 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_infrastructures >}}
 
 ## 3  Funding metadata
-*Coordinators: Hans de Jonge (Dutch Research Council - NWO), Katharina Rieck (Austrian Science Fund - FWF), Zoé Ancion (Agence Nationale de la Recherche - ANR)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -61,7 +58,6 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_open >}}
 
 ## 4  Replacing closed systems
-*Coordinators:  Ignasi Labastida (Universitat de Barcelona) and Matthijs de Zwaan (Free University, Amsterdam)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -71,7 +67,6 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_infrastructures >}}
 
 ## 5  Sustaining infrastructures
-*Coordinators: Bianca Kramer, Bárbar Rivera Lopez (Barcelona Declaration)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -81,7 +76,6 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_systems >}}
 
 ## 6  Evaluating sources of open research information
-*Coordinator: Stefano Bolelli Gallevi (Università degli Studi di Milano)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -91,7 +85,6 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< icon_collectiveaction >}}
 
 ## 7  Evidence of benefits
-*Coordinators: Núria Benítez Monforte (Institució CERCA) and Christian Hauschke (TIB - Leibniz Information Centre for Science and Technology)*
 
 {{< rawhtml >}}
 <hr class="small">
