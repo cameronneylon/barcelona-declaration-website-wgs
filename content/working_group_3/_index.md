@@ -53,12 +53,12 @@ For more information on open funding metadata and the benefits it provides, see 
 
 - Expand the adoption and improvement of funding metadata practices across a more representative and geographically diverse group of funders.
 
-### Entity-relationship model
-*Task force leads: Adam Buttrick (California Digital Library)*
-
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
+
+### Entity-relationship model
+*Task force leads: Adam Buttrick (California Digital Library)*
 
 - Develop an entity relationship model for funding metadata.
 
