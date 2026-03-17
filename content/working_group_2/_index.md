@@ -53,3 +53,5 @@ The group’s work is organized into two task forces.
 <hr class="small">
 </br>
 {{< /rawhtml >}}
+
+*Outcomes from the Working Group will be added here as they become available.*

@@ -14,7 +14,7 @@ comments = false
 
 This working group focuses on pathways for the adoption of open research information systems. Its goal is to support institutions in transitioning from closed infrastructures to open, sustainable, and interoperable systems.
 
-To support this transition, the group examines how institutions can move from closed to open systems, what institutional experiences can guide and inspire this process for other institutions, and what forms of capacity building and training are needed to support the effective use of open research information infrastructures.
+To support this transition, the group examines how institutions can move from closed to open systems, what institutional experiences can guide and inspire other institutions, and what forms of capacity building and training are needed to support the effective use of open research information infrastructures.
 
 The group’s work is organized into two task forces.
 
@@ -53,3 +53,7 @@ The group’s work is organized into two task forces.
 <hr class="small">
 </br>
 {{< /rawhtml >}}
+
+- **Public webinar** “Open Research Information in Action: Institutional Journeys Towards Open Systems”, in collaboration with the Helmholtz Open Science Office. ([Recording](https://www.youtube.com/watch?v=lKzPY_pjDCU) / [Slides](https://zenodo.org/records/18405400))
+
+

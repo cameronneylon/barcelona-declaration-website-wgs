@@ -103,7 +103,7 @@ Each working group focuses on a specific topic and is coordinated by representat
 <hr class="small">
 {{< /rawhtml >}}
 
-As the working groups develop their actions, with the ultimate aim of helping organizations transition to open research information, two factors are important for their success.
+As the working groups develop their actions, with the ultimate aim of supporting organizations transition to open research information, two factors are important for their success.
 
 {{< rawhtml >}}
 </br>

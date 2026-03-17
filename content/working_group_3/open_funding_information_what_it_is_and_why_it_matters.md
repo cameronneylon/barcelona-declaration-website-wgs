@@ -4,8 +4,8 @@ date = 2024-06-03T10:51:15+08:00
 comments = false
 +++
 
-## Open funding metadata
-*add byline*
+## "Open funding metadata - what is is and why it matters" 
+*Taskforce 2 of Working group on funding metadata*
 
 {{< rawhtml >}}
 <hr class="small">

@@ -5,7 +5,7 @@ comments = false
 +++
 
 ## Journal article metadata and book metadata
-*Coordinators: Ludo Waltman (Leiden University), Judith Naidorf, Mariangela Napoli (Consejo Latinoamericano de Ciencias Sociales - CLACSO)*
+*Coordinators: Ludo Waltman (Leiden University), Mariángela Nápoli (Consejo Latinoamericano de Ciencias Sociales - CLACSO)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -62,3 +62,5 @@ The group’s work is organized into three task forces.
 <hr class="small">
 </br>
 {{< /rawhtml >}}
+
+*Outcomes from the Working Group will be added here as they become available.*
