@@ -44,3 +44,8 @@ The group’s work is organized around activities that support institutional dec
 <hr class="small">
 </br>
 {{< /rawhtml >}}
+
+- Two **stakeholder sessions** exploring how open research infrastructures are sustained and how different actors across the ecosystem contribute to their sustainability.
+  - **Open Infrastructures**, with participation of OpenAlex, OpenAIRE, and OpenCitations ([recording](https://www.youtube.com/watch?v=gpyO3TErTMw) / [slides](https://doi.org/10.5281/zenodo.18187006)).
+  - **Related Initiatives**, with participation of Invest in Open Infrastructure (IOI), SCOSS, and TSOSI ([recording](https://www.youtube.com/watch?v=nf_5px0Pjzs) / [slides](https://doi.org/10.5281/zenodo.18188253)).
+- **Public webinar** "How POSI v2 Guides The Sustainability of Open Infrastructure Organisations" ([blogpost](https://barcelona-declaration.org/news/20260305_webinar_summary_how_posi_v2_guides_sustainability)).

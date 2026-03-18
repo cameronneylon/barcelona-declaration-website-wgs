@@ -41,3 +41,5 @@ To support this goal, the group explores how open research information sources c
 <hr class="small">
 </br>
 {{< /rawhtml >}}
+
+*Outcomes from the Working Group will be added here as they become available.*
