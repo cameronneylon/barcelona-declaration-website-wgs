@@ -98,6 +98,14 @@ Each working group focuses on a specific topic and is coordinated by representat
 </br></br>
 {{< /rawhtml >}}
 
+## Participants
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
+Participants include signatories, prospective signatories and supporters who are directly involved in advancing the activities and concrete outcomes of each Working Group.
+Participants will added to the website soon.
+
 ## Looking forward
 {{< rawhtml >}}
 <hr class="small">
