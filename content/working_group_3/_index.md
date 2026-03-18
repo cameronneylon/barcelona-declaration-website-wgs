@@ -75,4 +75,4 @@ For more information on open funding metadata and the benefits it provides, see 
 
 - **Roundtable** held on 2 October 2025 with 45 invited participants (publishers and funders), including breakout discussions on challenges in registering funding metadata ([blogpost](https://barcelona-declaration.org/news/20251023_community_roundtable/)).
 - **Blog post** on funding transparency published on the [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2025/12/11/open-funder-metadata-is-essential-for-true-research-transparency/) and on the [Barcelona Declaration website](https://barcelona-declaration.org/news/20251218_open_funder_metadata_is_essential_for_transparency/).
-- **Open funding metadata - what it is and why it matters** - [explainer](/open_funding_metadata_what_it_is_and_why_it_matters/) developed to clarify the concept of open funding metadata and its relevance for the research ecosystem.
+- **Open funding metadata - what it is and why it matters** - [explainer](/working_group_3/open_funding_metadata_what_it_is_and_why_it_matters/) developed to clarify the concept of open funding metadata and its relevance for the research ecosystem.
