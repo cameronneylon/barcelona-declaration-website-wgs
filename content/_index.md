@@ -104,7 +104,7 @@ Each working group focuses on a specific topic and is coordinated by representat
 {{< /rawhtml >}}
 
 Participants include signatories, prospective signatories and supporters who are directly involved in advancing the activities and concrete outcomes of each Working Group.
-Participants will added to the website soon.
+*A list of participants will be added soon.*
 
 ## Looking forward
 {{< rawhtml >}}
