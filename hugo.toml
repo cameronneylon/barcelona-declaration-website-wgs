@@ -15,6 +15,11 @@ enableRobotsTXT = true
     linkedin = "barcelona-declaration/"
     youtube = "@BarcelonaDeclaration"
     
+[privacy]
+  [privacy.youTube]
+    disable = false
+    privacyEnhanced = true
+    
 [[menu.main]]
     identifier = "working_groups_overview"  
     name = "About the working groups"
