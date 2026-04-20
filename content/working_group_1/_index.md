@@ -37,7 +37,7 @@ The group’s work is organized into three task forces.
 </br>
 {{< /rawhtml >}}
 
-### Negotiating openness of publication metadata (Joint Taskforce with OA2020) 
+### Negotiating openness of publication metadata (Joint Taskforce with OA Forward) 
 *Task force leads: Ludo Waltman (CWTS, Leiden University); Miranda Bennett (California Digital Library / OA2020)*
 
 - Enable research organizations to negotiate the openness of publication metadata with publishers by developing shared frameworks, clauses, and practical tools.
