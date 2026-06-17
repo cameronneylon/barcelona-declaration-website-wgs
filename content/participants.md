@@ -105,7 +105,16 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< /rawhtml >}}
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
-| simple | table | WG1 | here |
+| Sabina Anderberg | Stockholm University | WG4 | |
+| Francis P. Crawley | CoARA-ERIP | WG4 | |
+| Paola Galimberti | University of Milan | WG4 | |
+| Françoise Guyot | Université Le Havre Normandie | WG4 | |
+| Marc Lange | Helmholtz Open Science Office | WG4 | |
+| Roland Pastells-Peiró | Agency for Health Quality and Assessment of Catalonia (AQuAS) | WG4 | |
+| Mathilde Poulain | Université Le Havre Normandie  | WG4 | |
+| Ana Ranitovic | University of Groningen | WG4 | |
+| Angeliki Tzouganatou | OpenAIRE | WG4 | |
+
 
 {{< rawhtml >}}
 </br>
@@ -118,7 +127,15 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< /rawhtml >}}
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
-| simple | table | WG1 | here |
+| Chiara Di Giambattista | OpenCitations | WG5 | |
+| Lea Maria Ferguson | Helmholtz Open Science Office | WG5 | |
+| Meredith P. Goins |  | WG5 | |
+| Kathleen Gregory | CWTS, Leiden University  | WG5 | |
+| Vincas Grigas | Vilnius University / The Association of Lithuanian Serials | WG5 | |
+| Maxence Larrieu | Université Grenoble Alpes / TSOSI | WG5 | |
+| Lucy Ofiesh | Crossref | WG5 | |
+| Toby Steiner | Thoth Open Metadata | WG5 | |
+| Sofiia Zherebchuk  | State Scientific and Technical Library of Ukraine (SSTL) | WG5 | |
 
 {{< rawhtml >}}
 </br>
@@ -131,7 +148,9 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< /rawhtml >}}
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
-| simple | table | WG1 | here |
+| Linna Lu | TIB - Leibniz Information Centre for Science and Technology and University Library | WG6 | |
+| Giulia Malaguarnera | OpenAIRE | WG6 | |
+| Christine Rimmert | FIZ Karlsruhe – Leibniz Institute for Information Infrastructure | WG6 | |
 
 {{< rawhtml >}}
 </br>
@@ -144,7 +163,16 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< /rawhtml >}}
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
-| simple | table | WG1 | here |
+| Ricardo Hartley Belmar | | WG7 | Benefits framework and stakeholder map (**task force lead**) |
+| Núria Benítez Monforte | Institució CERCA | WG7 | Benefits framework and stakeholder map (**task force lead**) |
+| Francis P. Crawley | CoARA-ERIP | WG7 | |
+| Chiara Di Giambattista | OpenCitations | WG7 | Benefits framework and stakeholder map |
+| Lavinia Gambelli | University of Bristol | WG7 | Case studies |
+| Christian Hauschke | TIB – Leibniz Information Centre for Science and Technology | WG7 | Case studies (**task force lead**) |
+| Marc Lange | Helmholtz Open Science Office | WG7 | |
+| Ana Ranitovic | University of Groningen | WG7 | |
+| Toby Steiner | Thoth Open Metadata | WG7 | Benefits framework and stakeholder map |
+| Lena Stoll | Crossref | WG7 | Case studies |
 
 {{< rawhtml >}}
 </br>
