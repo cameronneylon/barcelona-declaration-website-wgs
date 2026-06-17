@@ -129,7 +129,7 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 | :------ | :----- | :------- | :------- |
 | Chiara Di Giambattista | OpenCitations | WG5 | |
 | Lea Maria Ferguson | Helmholtz Open Science Office | WG5 | |
-| Meredith P. Goins |  | WG5 | |
+| Meredith P. Goins | World Data System | WG5 | |
 | Kathleen Gregory | CWTS, Leiden University  | WG5 | |
 | Vincas Grigas | Vilnius University / The Association of Lithuanian Serials | WG5 | |
 | Maxence Larrieu | Université Grenoble Alpes / TSOSI | WG5 | |
