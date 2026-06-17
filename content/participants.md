@@ -39,10 +39,10 @@ Below is a list of active working group participants who agreed to be listed on 
 | Vincas Grigas | Vilnius University / The Association of Lithuanian Serials | WG1 | Metadata framework; Supporting poorly-resourced publishers |
 | Najko Jahn | Göttingen State and University Library | WG1 | Negotiating openness of publication metadata |
 | John Kunze | Drexel University / ARK Alliance | WG1 | Supporting poorly-resourced publishers |
-| Dominic Mitchell | DOAJ | WG1 | Supporting poorly-resourced publishers (*task force lead**) |
+| Dominic Mitchell | DOAJ | WG1 | Supporting poorly-resourced publishers (**task force lead**) |
 Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication metadata |
 | Toby Steiner | Thoth Open Metadata | WG1 | Negotiating openness of publication metadata |
-| Ludo Waltman | Leiden University, CWTS | WG1 | Negotiating openness of publication metadata (**task force lead**)|
+| Ludo Waltman | CWTS, Leiden University | WG1 | Negotiating openness of publication metadata (**task force lead**)|
 | Kunhua Zhao | National Science Library, Chinese Academy of Sciences | WG1 | Metadata framework / Supporting poorly-resourced publishers |
 
 {{< rawhtml >}}
@@ -56,15 +56,15 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< /rawhtml >}}
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
-| Josimara Dias Brumatti | Universidade Federal Fluminense | WG2 | Metadata curation in institutional repositories |
+| Josimara Dias Brumatti | Universidade Federal Fluminense | WG2 | |
 | Adam Buttrick | California Digital Library | WG2 | ML pipelines to detect data and software mentions from full text |
-| Francis P. Crawley | CoARA-ERIP | WG2 | Metadata curation in institutional repositories |
+| Francis P. Crawley | CoARA-ERIP | WG2 | |
 | Amir Djalali | University of Bologna | WG2 | Metadata curation in institutional repositories |
 | Irene Frascari | University of Bologna | WG2 | Metadata curation in institutional repositories |
 | Melissa Harrison | EMBL-EBI | WG2 | ML pipelines to detect data and software mentions from full text |
 | Linna Lu | TIB - Leibniz Information Centre for Science and Technology and University Library | WG2 | Metadata curation in institutional repositories |
 | Lautaro Matas | LA Referencia | WG2 | Metadata curation in institutional repositories |
-| Martyn Rittman | Crossref | WG2 | Metadata curation in institutional repositories |
+| Martyn Rittman | Crossref | WG2 |  |
 
 {{< rawhtml >}}
 </br>
@@ -77,7 +77,22 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< /rawhtml >}}
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
-| simple | table | WG1 | here |
+| Sara Ball | UKRI | WG3 | |
+| Bozana Bokan | PKP | WG3 | Expanding funding metadata practices across regions |
+| Adam Buttrick | California Digital Library | WG3 | Expanding funding metadata practices across regions (**task force lead**) |
+| Rodrigo Costas | CWTS, Leiden University | WG3 | Expanding funding metadata practices across regions |
+| Francis P. Crawley | CoARA-ERIP | WG3 | |
+| Harry Dimitropoulos | OpenAIRE | WG3 | |
+| Linda Fick | Academy of Science of South Africa (ASSAf) | WG3 | Expanding funding metadata practices across regions |
+| Emily Ford | Open Research Funders Group (ORFG) | WG3 | Resources to support funders |
+| Sebastian Herwig | University of Münster | WG3 | |
+| Bogdan Khymenko | State Scientific and Technical Library of Ukraine (SSTL) | WG3 | |
+| Kora Korzec | Crossref | WG3 | |
+| Maria Levchenko | DataCite | WG3 | Expanding funding metadata practices across regions |
+| Mike Nason | University of New Brunswick / PKP | WG3 | Expanding funding metadata practices across regions |
+| Diego Restrepo | Universidad de Antioquia | WG3 | |
+| Katharina Rieck | Austrian Science Fund (FWF) | WG3 | Resources to support funders (**task force lead**) |
+| Kathryn Smith | Jisc | WG3 | Resources to support funders |
 
 {{< rawhtml >}}
 </br>
