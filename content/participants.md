@@ -28,6 +28,8 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
+{{< csv_to_table_simple file="/data/wg1_participants.csv" >}}
+
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
 | Nicolas Alarcon | Sorbonne University | WG1 | Negotiating openness of publication metadata |
