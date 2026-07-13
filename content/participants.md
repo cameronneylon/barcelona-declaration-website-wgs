@@ -56,6 +56,9 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
+
+{{< csv_to_table_simple file="/data/wg2_participants.csv" >}}
+
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
 | Josimara Dias Brumatti | Universidade Federal Fluminense | WG2 | |
@@ -77,6 +80,9 @@ Leonidas Pispiringas | OpenAIRE | WG1 | Negotiating openness of publication meta
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
+
+{{< csv_to_table_simple file="/data/wg3_participants.csv" >}}
+
 | Name   | Organization    | Working group | Task force |
 | :------ | :----- | :------- | :------- |
 | Sara Ball | UKRI | WG3 | |
