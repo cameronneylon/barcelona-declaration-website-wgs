@@ -67,7 +67,8 @@ Open funding metadata delivers concrete benefits for various stakeholders across
   <li><b>Accountability</b> – supports compliance and reporting</li>
   <li><b>Visibility</b> – increases discoverability of contributions</li>
    <li><b>Insight</b> – data-driven decisions on trends and gaps</li>
-   <li><b>Interoperability</b> – ensures seamless integration and exchange across systems and platforms</li>
+   <li><b>Interoperability</b> – ensures seamless integration and  
+   exchange across systems and platforms</li>
 </ul>
 </div>
 {{< /rawhtml >}}
