@@ -1,10 +1,10 @@
 +++
-title = 'Working group 7'
+title = 'Case studies'
 date = 2026-08-07T10:51:15+08:00
 comments = false
 +++
 
-## Evidence of benefits of open research information
+## Evidence of benefits of open research information - case studies
 
 ### Case studies
 {{< rawhtml >}}
