@@ -23,7 +23,8 @@ Below is a list of active working group participants who agreed to be listed on 
 {{< /rawhtml >}}
 
 
-## 1 - Journal article and book metadata  
+## 1 - Journal article and book metadata
+*Coordinators: Ludo Waltman (Leiden University), Mariángela Nápoli (Consejo Latinoamericano de Ciencias Sociales - CLACSO)*
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -36,6 +37,7 @@ Below is a list of active working group participants who agreed to be listed on 
 {{< /rawhtml >}}
 
 ## 2 - Metadata of research outputs in repositories 
+*Coordinators: Bianca Kramer, Bárbara Rivera López (Barcelona Declaration)*
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -48,6 +50,7 @@ Below is a list of active working group participants who agreed to be listed on 
 {{< /rawhtml >}}
 
 ## 3 - Funding metadata 
+*Coordinators: Hans de Jonge (Dutch Research Council - NWO), Katharina Rieck (Austrian Science Fund - FWF), Zoé Ancion (Agence Nationale de la Recherche - ANR)*
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -60,6 +63,7 @@ Below is a list of active working group participants who agreed to be listed on 
 {{< /rawhtml >}}
 
 ## 4 - Replacing closed systems
+*Coordinators: Ignasi Labastida (Universitat de Barcelona), Matthijs de Zwaan (Vrije Universiteit Amsterdam)*
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -71,7 +75,8 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-## 5 - Sustaining infrastructures 
+## 5 - Sustaining infrastructures
+*Coordinators: Bianca Kramer, Bárbara Rivera López (Barcelona Declaration)*
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -84,6 +89,7 @@ Below is a list of active working group participants who agreed to be listed on 
 {{< /rawhtml >}}
 
 ## 6 - Evaluating open research information sources 
+*Coordinator: Stefano Bolelli Gallevi (Università degli Studi di Milano)*
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -96,6 +102,7 @@ Below is a list of active working group participants who agreed to be listed on 
 {{< /rawhtml >}}
 
 ## 7 - Evidence of benefits 
+*Coordinators: Christian Hauschke (TIB - Leibniz Information Centre for Science and Technology),  Bárbara Rivera López (Barcelona Declaration)*
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}

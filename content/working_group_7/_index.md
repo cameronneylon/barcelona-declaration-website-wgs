@@ -5,7 +5,7 @@ comments = false
 +++
 
 ## Evidence of benefits of open research information
-*Coordinators: Christian Hauschke (TIB - Leibniz Information Centre for Science and Technology),  Núria Benítez Monforte (Institució CERCA)*
+*Coordinators: Christian Hauschke (TIB - Leibniz Information Centre for Science and Technology), Bárbara Rivera López (Barcelona Declaration)*
 
 {{< rawhtml >}}
 <hr class="small">
@@ -38,7 +38,7 @@ The group’s work is organized into two task forces.
 {{< /rawhtml >}}
 
 ### Benefits framework and stakeholder map
-*Task force lead: Núria Benítez Monforte (Institució CERCA), Ricardo Hartley Belmar (independent)*
+*Task force lead: Ricardo Hartley Belmar (independent)*
 
 - Capture institutional practices, barriers and needs in replacing closed research information systems 
 

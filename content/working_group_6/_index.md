@@ -6,7 +6,6 @@ comments = false
 
 ## Evaluating open research information sources
 *Coordinator: Stefano Bolelli Gallevi (Università degli Studi di Milano)*
-*
 
 {{< rawhtml >}}
 <hr class="small">
