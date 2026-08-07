@@ -14,4 +14,9 @@ These case studies showcase real-world examples of how open research information
 
 Does your organization have a case study you would like to see included on this page? Please use [this form](https://opnform.com/forms/wg7-evidence-of-benefits-case-studies-1zyn2k) to submit your case study! 
 
+## List of case studies 
+{{< rawhtml >}}
+<hr class="small">
+</br>
+{{< /rawhtml >}}
 
