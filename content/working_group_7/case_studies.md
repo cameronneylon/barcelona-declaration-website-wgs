@@ -4,9 +4,7 @@ date = 2026-08-07T10:51:15+08:00
 comments = false
 +++
 
-## Evidence of benefits of open research information - case studies
-
-### Case studies
+## Evidence of benefits of open research information 
 {{< rawhtml >}}
 <hr class="small">
 </br>
