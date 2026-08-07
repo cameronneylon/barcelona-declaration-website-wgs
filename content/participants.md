@@ -4,11 +4,6 @@ date = 2024-01-14T10:51:15+08:00
 comments = false
 +++
 
-#TEST
-{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=158872311&single=true&output=csv" >}}
-
-
-
 # Working group participants
 {{< rawhtml >}}
 <hr class="small">
@@ -33,7 +28,7 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="/data/wg1_participants.csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=158872311&single=true&output=csv" >}}
 
 {{< rawhtml >}}
 </br>
@@ -46,7 +41,7 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="/data/wg2_participants.csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=346621774&single=true&output=csv" >}}
 
 {{< rawhtml >}}
 </br>
@@ -59,7 +54,7 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="/data/wg3_participants.csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=477492174&single=true&output=csv" >}}
 
 {{< rawhtml >}}
 </br>
@@ -72,7 +67,7 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="/data/wg4_participants.csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=1330294553&single=true&output=csv" >}}
 
 {{< rawhtml >}}
 </br>
@@ -85,7 +80,7 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="/data/wg5_participants.csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=163893279&single=true&output=csv" >}}
 
 {{< rawhtml >}}
 </br>
@@ -98,7 +93,7 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="/data/wg6_participants.csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=1521912570&single=true&output=csv" >}}
 
 {{< rawhtml >}}
 </br>
@@ -111,7 +106,7 @@ Below is a list of active working group participants who agreed to be listed on 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="/data/wg7_participants.csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_lMMaSm-ZUZcyn-PdtWsRyU56c8gCszu_GicOqC-weUFxBJc76Az99m9D-_S-hwO95iZ5b3pD_RH1/pub?gid=1251826042&single=true&output=csv" >}}
 
 {{< rawhtml >}}
 </br>
