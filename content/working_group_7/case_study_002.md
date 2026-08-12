@@ -5,7 +5,7 @@ comments = false
 +++
 
 
-## Case study 1 
+## Case study 
 {{< rawhtml >}}
 <hr class="small">
 </br>
