@@ -22,4 +22,7 @@ Does your organization have a case study you would like to see included on this 
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced_link_column path="https://docs.google.com/spreadsheets/d/e/2PACX-1vRoEhOjnJ0P-hiAou0eMHwm785gSPgoZfqoNr7aELFxoo7RQlvghqekKJv-osR450J0wYSbGAHo4vA1/pub?gid=121645579&single=true&output=csv" urlBase="../case_study_00" linkText="case study" >}}  
+{{< csv_to_table_advanced_link_column 
+  path="https://docs.google.com/spreadsheets/d/e/2PACX-1vRoEhOjnJ0P-hiAou0eMHwm785gSPgoZfqoNr7aELFxoo7RQlvghqekKJv-osR450J0wYSbGAHo4vA1/pub?gid=121645579&single=true&output=csv" 
+  urlBase="../case_study_00" 
+  linkText="case study" >}}  
