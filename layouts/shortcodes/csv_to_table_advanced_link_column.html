@@ -60,6 +60,7 @@ both of these entries in your site configuration:
 @param {string} [Params.delimiter=","] The delimiting character between the fields in each row.
 @param {bool} [Params.hasHeaderRow=true] Set to true if the CSV file has a header row.
 @param {string} [Params.id] The id attribute of the table element.
+@param {string} [Params.urlBase] The base url to use to generate link in link column.
 
 @returns {template.html}
 
@@ -80,6 +81,7 @@ both of these entries in your site configuration:
 {{- $position := .Position }}
 
 {{- /* Get parameters. */}}
+{{- $urlBase := or (.Get "urlBase") "" }}
 {{- $caption := or (.Get "caption") "" }}
 {{- $class := or (.Get "class") "" }}
 {{- $delimiter := or (.Get "delimiter") "," }}
