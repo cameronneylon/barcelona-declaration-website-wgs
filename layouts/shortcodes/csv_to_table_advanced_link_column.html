@@ -154,6 +154,7 @@ both of these entries in your site configuration:
       {{- range $headerRow }}
         <th>{{ . }}</th>
       {{- end }}
+       <th>Read more</th>
     </tr>
   </thead>
 {{- else }}
@@ -165,6 +166,7 @@ both of these entries in your site configuration:
       {{- range $row }}
         <td>{{ . }}</td>
       {{- end }}
+      <td><a href https://example.com>Read case study</a></td>
     </tr>
   {{- end }}
   </tbody>
