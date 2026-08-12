@@ -61,6 +61,7 @@ both of these entries in your site configuration:
 @param {bool} [Params.hasHeaderRow=true] Set to true if the CSV file has a header row.
 @param {string} [Params.id] The id attribute of the table element.
 @param {string} [Params.urlBase] The base url to use to generate link in link column.
+@param {string} [Params.linkText] The link text to be used in the generated link.
 
 @returns {template.html}
 
@@ -82,6 +83,7 @@ both of these entries in your site configuration:
 
 {{- /* Get parameters. */}}
 {{- $urlBase := or (.Get "urlBase") "" }}
+{{- $linkText := or (.Get "linkText") "" }}
 {{- $caption := or (.Get "caption") "" }}
 {{- $class := or (.Get "class") "" }}
 {{- $delimiter := or (.Get "delimiter") "," }}
@@ -168,7 +170,7 @@ both of these entries in your site configuration:
       {{- range $row }}
         <td>{{ . }}</td>
       {{- end }}
-      <td><a href= {{ $urlBase }}{{add $i 1}} > case study </a></td>
+      <td><a href= {{ $urlBase }}{{add $i 1}} > {{ $linkText }} </a></td>
     </tr>
   {{- end }}
   </tbody>
