@@ -168,7 +168,7 @@ both of these entries in your site configuration:
       {{- range $row }}
         <td>{{ . }}</td>
       {{- end }}
-      <td><a href= {{ "../case_study_00" }}{{add $i 1}} >case study</a></td>
+      <td><a href= {{ $urlBase }}{{add $i 1}} >case study</a></td>
     </tr>
   {{- end }}
   </tbody>
