@@ -166,7 +166,7 @@ both of these entries in your site configuration:
       {{- range $row }}
         <td>{{ . }}</td>
       {{- end }}
-      <td>{{ delimit (slice "../case_study_00" "{{add $i 1}}"") "" }}</td>
+      <td>{{ delimit (slice "../case_study_00" "{{add $i 1}}") "" }}</td>
     </tr>
   {{- end }}
   </tbody>
