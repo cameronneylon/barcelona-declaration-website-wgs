@@ -1,6 +1,6 @@
 +++
 title = 'Case studies'
-date = 2026-09-08T10:51:15+08:00
+date = 2026-09-02T10:51:15+08:00
 comments = false
 +++
 
