@@ -163,7 +163,12 @@ both of these entries in your site configuration:
  {{- range $i, $row := $rows }}
     <tr>
       {{- range $row }}
-        <td>{{ . }}</td>
+        <td>
+         {{ if (findRE "^https?://" .) }}
+              <a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a>
+            {{ else }}
+              {{ . }}
+            {{ end }}
       {{- end }}
     </tr>
   {{- end }}
