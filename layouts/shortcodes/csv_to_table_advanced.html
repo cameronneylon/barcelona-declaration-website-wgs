@@ -164,6 +164,9 @@ both of these entries in your site configuration:
     <tr>
       {{- range $row }}
         <td>
+        {{/* Original approach replacing all as 1 link */}}
+         {{/*  {{ if (findRE "^https?://" .) }} <a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a> {{ else }} {{ . }} {{ end }} */}}
+  
         {{/* Find all URLs and replace them globally with an HTML anchor tag */}}
         {{ $parsedCell := replaceRE `(https?://[^\s<>"]+)` `<a href="$1" target="_blank" rel="noopener">$1</a>` . }}
   
