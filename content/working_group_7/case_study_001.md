@@ -14,5 +14,5 @@ back to <a href="https://working-groups.barcelona-declaration.org/working_group_
 </br>
 {{< /rawhtml >}}
 
-{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vRoEhOjnJ0P-hiAou0eMHwm785gSPgoZfqoNr7aELFxoo7RQlvghqekKJv-osR450J0wYSbGAHo4vA1/pub?gid=2061684821&single=true&output=csv" >}}
+{{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vRoEhOjnJ0P-hiAou0eMHwm785gSPgoZfqoNr7aELFxoo7RQlvghqekKJv-osR450J0wYSbGAHo4vA1/pub?gid=379942513&single=true&output=csv" >}}
 
