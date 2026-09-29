@@ -9,6 +9,10 @@ comments = false
 {{< rawhtml >}}
 <hr class="small">
 </br>
+back to <a href="https://working-groups.barcelona-declaration.org/working_group_7/case_studies/">List of case studies</a> 
+</br>
+</br>
 {{< /rawhtml >}}
 
 {{< csv_to_table_advanced path="https://docs.google.com/spreadsheets/d/e/2PACX-1vRoEhOjnJ0P-hiAou0eMHwm785gSPgoZfqoNr7aELFxoo7RQlvghqekKJv-osR450J0wYSbGAHo4vA1/pub?gid=2061684821&single=true&output=csv" >}}
+

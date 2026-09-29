@@ -5,9 +5,12 @@ comments = false
 +++
 
 
-## Case study 
+## Case study
 {{< rawhtml >}}
 <hr class="small">
+</br>
+back to <a href="https://working-groups.barcelona-declaration.org/working_group_7/case_studies/">List of case studies</a> 
+</br>
 </br>
 {{< /rawhtml >}}
 
