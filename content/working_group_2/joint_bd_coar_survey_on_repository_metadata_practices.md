@@ -9,7 +9,6 @@ comments = false
 
 {{< rawhtml >}}
 <hr class="small">
-</br>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
