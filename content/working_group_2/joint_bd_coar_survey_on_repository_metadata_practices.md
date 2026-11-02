@@ -76,12 +76,15 @@ It covers institutional, national, disciplinary, federal and other repositories.
 
 The survey is open from **3 November to 15 December 2026**. It is available in:
 
-- [English](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-en-ds140v)
-- [Español](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-es-j4gjq8)
-- [Português](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-pt-kbqo3j)
-- [中文](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-zh-065jra)
+- *English* - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-en-ds140v) / pdf
+- *Español* - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-es-j4gjq8) / pdf
+- *Português* - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-pt-kbqo3j) / pdf
+- *中文* -  [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-zh-065jra) / pdf
+
+The survey can only be answered through the online survey forms. PDF versions of the survey are provided to review the questions before filling out the survey form, and are for information purposes only. 
 
 The survey will take about **20-30 minutes** to complete.  
+  
 **Questions about the survey?** Contact survey@barcelona-declaration.org.
 
 {{< rawhtml >}}
@@ -94,5 +97,11 @@ The survey will take about **20-30 minutes** to complete.
 
 We are grateful to the colleagues who contributed their time and expertise to translating and reviewing the survey. Their work helps make it accessible to repository communities across different language contexts.
 
-**Bárbara Rivera López** (Barcelona Declaration), **Jerneja Grasic** (University of Maribor, Slovenia) **Ricardo Hartley Belmar**, **Luciana Mara Silva** (LA Referencia / Universidad del Estado de Santa Catarina, Brazil), **Lautaro Matas** (LA Referencia), **André Appel** (Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT, Brazil), **Dr. Tongqi Wei** (Institute of Psychology, Chinese Academy of Sciences,China)
+**[Bárbara Rivera López](https://orcid.org/0000-0003-3267-7158)** (Barcelona Declaration)  
+**Jerneja Grašič** (University of Maribor, Slovenia)  
+**[Ricardo Hartley Belmar](https://orcid.org/0000-0001-5058-9309)**  
+**[Luciana Mara Silva](https://orcid.org/0000-0002-3513-2375)** (LA Referencia / Universidad del Estado de Santa Catarina, Brazil)  
+**[Lautaro Matas](https://orcid.org/0000-0003-0272-1592)** (LA Referencia)  
+**[André Luiz Appel](https://orcid.org/0000-0002-9608-803X)** (Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT, Brazil)  
+**Dr. Tongqi Wei** (Institute of Psychology, Chinese Academy of Sciences,China)
 
