@@ -95,7 +95,7 @@ The survey will take about **20-30 minutes** to complete.
 <hr class="small">
 {{< /rawhtml >}}
 
-We are grateful to the colleagues who contributed their time and expertise to translating and reviewing the survey. Their work helps make it accessible to repository communities across different language contexts.
+We are grateful to the colleagues who contributed their time and expertise to translating and reviewing the survey. Their work helps make it accessible to repository communities across different language contexts:
 
 **[Bárbara Rivera López](https://orcid.org/0000-0003-3267-7158)** (Barcelona Declaration)  
 **Jerneja Grašič** (University of Maribor, Slovenia)  
