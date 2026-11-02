@@ -12,7 +12,7 @@ comments = false
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<link rel=stylesheet href= "https://working-groups.barcelona-declaration.org/css/main.css">
 <table>
     <tr >
         <td style="width:20%">
