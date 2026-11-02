@@ -47,6 +47,17 @@ The group’s work is organized into two task forces.
 </br>
 {{< /rawhtml >}}
 
+## Current activities
+
+{{< rawhtml >}}
+<hr class="small">
+</br>
+{{< /rawhtml >}}
+
+[Repository Metadata Collection and Curation Practices survey](/joint_bd_coar_survey_on_repository_metadata_practices), a joint initiative of the Barcelona Declaration on Open Research Information and COAR (The Confederation of Open Access Repositories).  
+The survey is open from Novemer 3 until December 15 2026. 
+
+
 ## Outcomes
 
 {{< rawhtml >}}
