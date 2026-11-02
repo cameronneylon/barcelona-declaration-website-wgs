@@ -18,9 +18,9 @@ comments = false
         <td style="width:20%">
         </td>
         <td style="width:60%">
-            <a href="/images/bd_coar_survey_v1.png" target="_blank">
+            <a href="/images/bd_coar_survey_v2.png" target="_blank">
             <picture>
-            <img src = "/images/bd_coar_survey_v1.png" alt = "alt text">
+            <img src = "/images/bd_coar_survey_v2.png" alt = "alt text">
             </picture>
              </a>
         </td>
