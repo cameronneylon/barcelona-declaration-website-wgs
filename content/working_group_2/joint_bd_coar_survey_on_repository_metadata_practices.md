@@ -76,10 +76,10 @@ It covers institutional, national, disciplinary, federal and other repositories.
 
 The survey is open from **3 November to 15 December 2026**. It is available in:
 
-- **English** - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-en-ds140v) / [pdf](../downloads/bd_coar_joint_survey_en.pdf)
-- **Español** - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-es-j4gjq8) / [pdf](../downloads/bd_coar_joint_survey_es.pdf)
-- **Português** - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-pt-kbqo3j) / [pdf](../downloads/bd_coar_joint_survey_pt.pdf)
-- **中文** -  [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-zh-065jra) / [pdf](../downloads/bd_coar_joint_survey_zh.pdf)
+- **English** - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-en-ds140v) / [pdf](../../downloads/bd_coar_joint_survey_en.pdf)
+- **Español** - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-es-j4gjq8) / [pdf](../../downloads/bd_coar_joint_survey_es.pdf)
+- **Português** - [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-pt-kbqo3j) / [pdf](../../downloads/bd_coar_joint_survey_pt.pdf)
+- **中文** -  [survey form](https://opnform.com/forms/bd-repository-metadata-collection-and-curation-practices-zh-065jra) / [pdf](../../downloads/bd_coar_joint_survey_zh.pdf)
 
 The survey can only be answered through the online survey forms. PDF versions of the survey are provided to review the questions before filling out the survey form, and are for information purposes only. 
 
