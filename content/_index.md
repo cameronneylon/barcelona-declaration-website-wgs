@@ -98,14 +98,21 @@ Each working group focuses on a specific topic and is coordinated by representat
 </br></br>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 ## Participants
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
 
 Participants include signatories, prospective signatories and supporters who are directly involved in advancing the activities and concrete outcomes of each Working Group.
-*A list of participants will be added soon.*
 
+A list of active working group participants who agreed to be listed on the Barcelona Declaration website can be found here: [Working group participants](/participants)
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 ## Looking forward
 {{< rawhtml >}}
 <hr class="small">
