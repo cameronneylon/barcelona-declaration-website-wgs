@@ -55,4 +55,4 @@ The group’s work is organized into two task forces.
 
 *Outcomes from the Working Group will be added here as they become available.*
 - [Form to collect case studies](https://opnform.com/forms/wg7-evidence-of-benefits-case-studies-1zyn2k)
-- [Collected case studies](/case_studies)
+- [Collected case studies](./case_studies)
